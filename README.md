@@ -24,9 +24,3 @@ This is a pokemon themed game of tag, where you can play tag with an AI, if the 
 - Environment: https://sketchfab.com/3d-models/eden-arena-8f1caa3250424e8e8769a405f1194468
 - Pokeballs: https://sketchfab.com/3d-models/pokeballs-pokemon-a13d6bc3844f4253b694f4b6a3074a01
 - Pokémon Button Image: Made by me in a photo editor
-
-
-Shooting Bullets
-https://www.youtube.com/watch?v=wZ2UUOC17AY
-https://www.youtube.com/watch?v=Nke5JKPiQTw\&t=231s
-
