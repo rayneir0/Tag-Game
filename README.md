@@ -1,6 +1,7 @@
 # Tag Game
 ## Background
 This is a pokemon themed game of tag, where you can play tag with an AI, if the player is tagged when the timer runs out, the point is given to the AI.
+The game is made in Unity.
 
 ## How To Play
 - To start the game press start on the main menu.
